@@ -1,3 +1,4 @@
-test
+# Ardent
+Game-changing technology for world-changing people.
 
-if this doesn't appear on the org profile i will slam my head on a brick wall
+We're not a real company just yet, but the future is looking bright.
