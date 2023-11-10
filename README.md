@@ -1,2 +1,2 @@
 # .github
-Miscellaneous things
+Self-explanatory (i think)
