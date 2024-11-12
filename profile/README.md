@@ -1,2 +1,2 @@
 # Ardent Development
-Game-changing technology built for world-changing people.
+Dillydallying on weekends, dreaming of world domination at 3am
